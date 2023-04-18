@@ -1,0 +1,27 @@
+{
+    "id": "C822D781",
+    "path": "~/Documents/GitHub/example_shiny/backup.R",
+    "project_path": "backup.R",
+    "type": "r_source",
+    "hash": "3757633744",
+    "contents": "",
+    "dirty": false,
+    "created": 1681835088406.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "90,0",
+        "scrollLine": "65"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681835091,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681835091772,
+    "read_only": false,
+    "read_only_alternatives": []
+}
